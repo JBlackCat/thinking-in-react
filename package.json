@@ -1,6 +1,6 @@
 {
   "name": "thinking-in-react",
-  "description": "https://facebook.github.io/react/docs/thinking-in-react.html"
+  "description": "https://facebook.github.io/react/docs/thinking-in-react.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
